@@ -1,0 +1,9 @@
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\UnitTestForGitHubProject\bin\Debug\UnitTestForGitHubProject.dll
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\UnitTestForGitHubProject\bin\Debug\UnitTestForGitHubProject.pdb
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\UnitTestForGitHubProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\UnitTestForGitHubProject\bin\Debug\TestProjectForGitHub.dll
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\UnitTestForGitHubProject\bin\Debug\TestProjectForGitHub.pdb
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\UnitTestForGitHubProject\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\UnitTestForGitHubProject\obj\Debug\UnitTestForGitHubProject.csprojResolveAssemblyReference.cache
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\UnitTestForGitHubProject\obj\Debug\UnitTestForGitHubProject.dll
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\UnitTestForGitHubProject\obj\Debug\UnitTestForGitHubProject.pdb

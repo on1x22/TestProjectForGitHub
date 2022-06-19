@@ -1,0 +1,5 @@
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\TestProjectForGitHub\bin\Debug\TestProjectForGitHub.dll
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\TestProjectForGitHub\bin\Debug\TestProjectForGitHub.pdb
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\TestProjectForGitHub\obj\Debug\TestProjectForGitHub.csprojResolveAssemblyReference.cache
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\TestProjectForGitHub\obj\Debug\TestProjectForGitHub.dll
+D:\Книги\Программирование\Учебные проекты\Тестовые проекты\TestProjectForGitHub\TestProjectForGitHub\obj\Debug\TestProjectForGitHub.pdb
