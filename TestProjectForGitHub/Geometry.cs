@@ -19,7 +19,7 @@
 
         public override string  ToString()
         {
-            return "Geometry class";
+            return "Geometry class test";
         }
     }
 }
