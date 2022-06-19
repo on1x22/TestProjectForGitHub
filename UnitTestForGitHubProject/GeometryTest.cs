@@ -22,5 +22,31 @@ namespace UnitTestForGitHubProject
             // сравнение ожидаемого результата с полученным
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        public void GetPerimetr_3and5_16returned()
+        {
+            int a = 3;
+            int b = 5;
+            int expected = 16;
+
+            Geometry g = new Geometry();
+            int actual = g.GetPerimeter(a, b);
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void GetStatistic_2and7()
+        {
+            int a = 2;
+            int b = 7;
+            string expected = "Периметр = 18, площадь = 14";
+
+            Geometry g = new Geometry();
+            string actual = g.GetStatistic(a, b);
+
+            Assert.AreEqual(expected, actual);
+        }
     }
 }
